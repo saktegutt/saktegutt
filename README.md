@@ -10,6 +10,7 @@ Hello there! I’m a student at AOF Østfold with a deep passion for programming
 When I’m not coding or learning new technologies, you’ll likely find me gaming on my Xbox.
 
 I believe in **continuous learning**, and I love exploring both new programming concepts and digital game worlds alike. 🚀
+Learning as much as i can in the short time i have!
 
 ---
 
